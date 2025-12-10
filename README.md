@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Pokédex Creator
 
 A simple Streamlit app template for you to modify!
 
